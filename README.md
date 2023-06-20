@@ -19,7 +19,7 @@
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Logo-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Logo-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> 
-  <img align="center" alt="Logo-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/pandas-original-wordmark.svg"> 
+  <img align="center" alt="Logo-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"> 
   
 
 
