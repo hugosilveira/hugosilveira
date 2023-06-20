@@ -6,7 +6,7 @@
  
 ## Hi, I'm Hugo 🧔‍♂️
   ### A little bit about me:
-- I'm a Data Analyst with a passion for overcoming challenges 🚀
+- I'm a Data Enginner and Data Analyst with a passion for overcoming challenges 🚀
 - I'm Brazilian and I live in Paraná 🇧🇷
 - I love connect with people around the world and collaborate with individuals from diverse backgrounds 🌍
 - I'm studying now to become a data engineer 📚
