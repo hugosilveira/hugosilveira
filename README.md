@@ -27,20 +27,6 @@ Here are some of the main technologies I use in my daily work 👇
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huugoleonardo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huugoleonardo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huugoleonardo&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 About Me
 
 - 🇧🇷 Brazilian living around the world  
@@ -71,4 +57,4 @@ Here are some of the main technologies I use in my daily work 👇
 ---
 
 ✨ *“Data is not just numbers — it's the story behind every decision.”*  
-— **Hugo Leonardo**
+— **Hugo Silveira**
