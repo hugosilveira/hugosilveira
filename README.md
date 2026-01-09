@@ -6,6 +6,8 @@
 💡 I love turning data into insights and building scalable data pipelines.  
 ☁️ Passionate about automation, cloud architecture, and learning new tech every day.  
 📍 Brazilian living around the world 🌎  
+🌍 Languages: 🇧🇷 Portuguese | 🇫🇷 French | 🇺🇸 English | 🇪🇸 Spanish
+
 
 ---
 
