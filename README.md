@@ -9,7 +9,8 @@ I design, build, and monitor data pipelines that turn raw data into reliable, ac
 - 🐍 **Engineering & automation:** Python, boto3, AWS CLI, SQL, REST/SOAP APIs, Bash
 - 📊 **Analytics:** Power BI, DAX, Power Query, dimensional modeling, dashboards
 - 🛠️ **Operations:** Amazon CloudWatch, monitoring, troubleshooting, logging, Git, Docker, Linux/WSL
-- 🌍 Brazilian based in Spain · 🇧🇷 Portuguese · 🇺🇸 English · 🇪🇸 Spanish · 🇫🇷 French
+- 📍 Brazilian living around the world 🌎  
+- 🌍 Languages: 🇧🇷 Portuguese | 🇫🇷 French | 🇺🇸 English | 🇪🇸 Spanish
 
 ---
 
